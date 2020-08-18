@@ -1,3 +1,6 @@
 [submodule "Shutdown"]
 	path = Shutdown
 	url = git@github.com:KanjiuAkuma/Shutdown.git
+[submodule "NetflixMyList"]
+	path = NetflixMyList
+	url = git@github.com:KanjiuAkuma/NetflixMyList.git
