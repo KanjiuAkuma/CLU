@@ -1,9 +1,0 @@
-# ide files
-.idea/
-
-# input files
-*.html
-
-# output files, keep requirements
-*.txt
-!requirements.txt
