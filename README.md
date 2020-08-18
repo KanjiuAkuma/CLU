@@ -3,11 +3,16 @@
 Command Line Utilities
 by Kanjiu Akuma
 
+Requirements
+===
+Python 3.8 (https://www.python.org/downloads/)
+
 Modules
 ===
 
 ### NetflixMyListExtractor
-> Use to get a text file containing your 'My List' from Netflix
+> CLI to Extract names and urls from Netflix's 'My List'
 
 ### Shutdown
-> Windows shutdown CLI with named configurations and better input than the builtin one
+> CLI wrapper for windows shutdown command 
+> with named configurations and better input than the builtin one
