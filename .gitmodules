@@ -1,0 +1,6 @@
+[submodule "NetflixMyListExtractor"]
+	path = NetflixMyListExtractor
+	url = git@github.com:KanjiuAkuma/NetflixMyListExtractor.git
+[submodule "Shutdown"]
+	path = Shutdown
+	url = git@github.com:KanjiuAkuma/Shutdown.git
